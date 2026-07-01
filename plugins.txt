@@ -1,0 +1,3 @@
+# Plugins to include in repo.json — one "owner/repo" per line.
+# Each must publish a DalamudPackager latest.zip on its GitHub "latest" release.
+greenteakitkats/HousingHistory
