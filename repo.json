@@ -3,7 +3,7 @@
     "Author": "greenteakitkats",
     "Name": "Housing History",
     "InternalName": "HousingHistory",
-    "AssemblyVersion": "0.11.1.0",
+    "AssemblyVersion": "0.12.0.0",
     "Description": "A running log of everything you do while decorating: placing, removing, moving, rotating, and dyeing furniture, all with coordinates. Forgot what you just changed, or moved something and want it back? Click the old coordinates to copy them, or turn on Apply mode to snap the selected item right back into place. It'll also show you what changed since you were last home. Built to sit alongside Burning Down the House. Type /houselog to open it.",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
