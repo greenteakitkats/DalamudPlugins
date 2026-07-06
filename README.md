@@ -15,7 +15,7 @@ once and every plugin here, now and in the future, shows up in-game.
 
 ## Plugins
 
-- **[Housing History](https://github.com/greenteakitkats/HousingHistory)**: a
+- **[A Room Reborn](https://github.com/greenteakitkats/ARoomReborn)**: a
   read-only log of the furniture you place, remove, move, rotate, and dye while
   decorating, with coordinates and a look at what changed since your last visit.
 
